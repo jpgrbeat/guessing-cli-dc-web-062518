@@ -13,7 +13,6 @@ def run_guessing_game
     
       when  com_num
         puts "You guessed the correct number!"
-        break
       when "exit"
         puts "Goodbye!"
         break
